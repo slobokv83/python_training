@@ -1,0 +1,13 @@
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: ('Slobodan', 38), and kwargs: {}
+INFO:root:Ran with args: ('Slobodan',), and kwargs: {'a': 38}
+INFO:root:Ran with args: ('Slobodan', 38), and kwargs: {}
+INFO:root:Ran with args: ('Milan', 76), and kwargs: {}
+INFO:root:Ran with args: ('Milan',), and kwargs: {'age': 76}
+INFO:root:Ran with args: ('Milan',), and kwargs: {'a': 76}
+INFO:root:Ran with args: ('Milan', 76), and kwargs: {}
+INFO:root:Ran with args: ('Milan', 28), and kwargs: {}
+INFO:root:Ran with args: ('Milan',), and kwargs: {'age': 76}
+INFO:root:Ran with args: ('Milan',), and kwargs: {'age': 76}
+INFO:root:Ran with args: ('Milan', 76), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {'name': 'Milan', 'age': 76}
